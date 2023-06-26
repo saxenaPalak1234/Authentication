@@ -1,0 +1,21 @@
+#footer-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items:flex-start; 
+    border-radius: 10px;
+    background-image: linear-gradient(to top right, rgb(3, 54, 129), rgba(38, 81, 224, 0.767));
+    /* box-shadow: 3px 3px 5px 3px black; */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* opacity: 0.5; */
+}
+
+
+#footer-container div h2 {
+    color: rgb(255, 255, 255);
+    /* text-shadow: 1px 1px rgb(45, 43, 43); */
+    margin-left: 10px;
+    list-style-type: none;
+    padding: 5px;
+}
